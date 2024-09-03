@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
+global.ownernomer = "2349039996138"
+global.ownername = "~ ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮 "
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "Nigeria, Africa, lagos"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownernumber = '2349039996138'  //creator number
+global.ownername = '~ ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮 ' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.packname = 'Sticker By MFCLONE'
+global.author = 'PREXZY👑\n\nContact: +2349039996138'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -27,13 +27,13 @@ global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -50,7 +50,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
+    done: 'Done sir!',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
